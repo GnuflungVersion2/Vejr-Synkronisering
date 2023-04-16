@@ -1,4 +1,4 @@
-local weather = "EXTRASUNNY" -- Default weather
+local weather = "EXTRASUNNY" 
 local time = 0 
 
 
